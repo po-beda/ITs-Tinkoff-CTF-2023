@@ -6,3 +6,4 @@
 - [Мегастог](acupuncture/WRITEUP.md)
 - [Кефтеме](galacticmarketplace/WRITEUP.md)
 - [Пепелац девелопмент](cosmoflot/WRITEUP.md)
+- [Охотники за ловушками](catcher/WRITEUP.md)
