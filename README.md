@@ -2,3 +2,4 @@
 
 - [Зов аномалий](artifacts/WRITEUP.md)
 - [Планетарная важность](broken/WRITEUP.md)
+- [Мегастог](acupuncture/WRITEUP.md)
