@@ -50,7 +50,7 @@ print(b64encode(payload))
 - RCE объект +
 - открытие строки длиной 1
 
-Зашлем наш payload на сервер и получим шелл:
+Зашлем наш payload на сервер и получим флаг:
 
 ![Конвертируем Base64 в URL](base64_encode_to_url.png)
 
