@@ -8,3 +8,4 @@
 - [Пепелац девелопмент](cosmoflot/WRITEUP.md)
 - [Охотники за ловушками](catcher/WRITEUP.md)
 - [Тайна четвертой планеты](planetdb/WRITEUP.md)
+- [Шифрователь ДНК](ucucuga/WRITEUP.md)
