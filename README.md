@@ -4,3 +4,4 @@
 - [Принцесса в другом замке](tinderella/WRITEUP.md)
 - [Планетарная важность](broken/WRITEUP.md)
 - [Мегастог](acupuncture/WRITEUP.md)
+- [Кефтеме](galacticmarketplace/WRITEUP.md)
