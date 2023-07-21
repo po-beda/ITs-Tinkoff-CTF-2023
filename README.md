@@ -1,6 +1,6 @@
 # IT's Tinkoff CTF web writeups
 
-- [Потерянный в космосе](lostinspace/WRIPEUP.md)
+- [Потерянный в космосе](lostinspace/WRITEUP.md)
 - [Зов аномалий](artifacts/WRITEUP.md)
 - [Принцесса в другом замке](tinderella/WRITEUP.md)
 - [Планетарная важность](broken/WRITEUP.md)
